@@ -238,9 +238,6 @@
                             <input type="radio" name="jcorgtoc_position" <?php if(get_option('jcorgtoc_position') == "right") echo "checked='checked'";?>
                             value="right" 
                             /> Right  <br>
-                            <input type="radio" name="jcorgtoc_position" <?php if(get_option('jcorgtoc_position') == "topright") echo "checked='checked'";?>
-                            value="topright" 
-                            /> Top Right  <br>
                             <input type="radio" name="jcorgtoc_position" <?php if(get_option('jcorgtoc_position') == "bottomright") echo "checked='checked'";?>
                             value="bottomright" 
                             /> Botom Right  <br>
