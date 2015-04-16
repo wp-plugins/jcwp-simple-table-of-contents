@@ -5,7 +5,7 @@ Donate link:  http://jaspreetchahal.org/wordpress-simple-table-of-contents-plugi
 Tags: table of contents, lite, clickable headings, Contents
 Requires at least: 2.8
 Version: 1.01
-Tested up to: 3.4.1
+Tested up to: 4.2
 Stable tag: 1.01
 
 This plugin gives options to display "Table of contents" container on your wordpress post or page
